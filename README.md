@@ -5,4 +5,4 @@
  지금까지 배운 내용들과 새로 학습하는 내용을 잘 융화시키기 위해 관련된 것들은 가까운 곳에 놓거나 화살표로 연결합니다.
  
 
-![234429927-7eecc9f1-e0b2-4447-8301-f9dd56ed500d](https://user-images.githubusercontent.com/46528018/234429981-23a8ea79-ee1c-4af8-8f66-72e703326188.svg)
+![234429341-17c524eb-1785-4da4-9c0c-9123e6e48108](https://user-images.githubusercontent.com/46528018/234430299-5ff360ee-8492-4064-8d48-185cfd556c0c.png)
